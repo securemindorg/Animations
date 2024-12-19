@@ -15,12 +15,12 @@ class TitleScene(Scene):
         self.add(background)  # Add background to the scene
 
         # Title
-        title = Text('The Collatz Conjecture', color=WHITE, font='Comic Sans MS').scale(1.5).set_stroke(BLACK, width=1)
-        underline = Line(LEFT, RIGHT, color=BLUE).scale(5.3).next_to(title, DOWN)
-        self.play(Write(title))
-        self.wait(2)
+        title = Text('The Collatz Conjecture', color=WHITE, font='Comic Sans MS').scale(2).set_stroke(BLACK, width=1).move_to(UP * 1)
+        underline = Line(LEFT, RIGHT, color=WHITE).scale(5.3).next_to(title, DOWN)
+        #self.play(Write(title))
+        #self.wait(1)
         #signature = Text('Joshua S. White, PhD').scale(.5).to_corner(DR)
-        self.play(Create(underline)) #, FadeIn(signature))
+        #self.play(Create(underline)) #, FadeIn(signature))
 
         # Create a graph with multiple nodes
         G = nx.Graph()
@@ -52,7 +52,7 @@ class TitleScene(Scene):
         self.play(Create(graph))
 
         # Animate slight movement of the nodes
-        for _ in range(10):  # Repeat a few times for dynamic effect
+        for _ in range(5):  # Repeat a few times for dynamic effect
             new_positions = {
                 node: graph.vertices[node].get_center() + np.random.uniform(-0.05, 0.05, size=3)
                 for node in manim_positions
@@ -64,7 +64,12 @@ class TitleScene(Scene):
             )
 
         # Transform the graph into the name "Joshua S. White"
-        name_text = Text("Joshua S. White", color=WHITE).scale(.5).to_corner(DR)
+        name_text = Text("Joshua S. White, PhD", color=WHITE, font='Comic Sans MS').scale(.5).to_corner(DR)
+
+        self.play(Write(title))
+        self.wait(1)
+        self.play(Create(underline)) 
+        self.wait(1)
         self.play(Transform(underline, name_text))
    
         # Hold the graph in its final state
@@ -80,4 +85,4 @@ class TitleScene(Scene):
             fill_opacity=1,
         ).set_z_index(1)  # Ensure it covers everything
 
-        self.play(FadeIn(fade_to_black, run_time=2))
+        self.play(FadeIn(fade_to_black, run_time=3))
