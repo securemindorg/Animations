@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/AttentionMechanism/1185818338_1854931859_2205987761.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/AttentionMechanism/624642324_463642705_3613870449.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/AttentionMechanism/624642324_3649372508_2315768166.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/AttentionMechanism/624642324_908423594_131415285.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/AttentionMechanism/624642324_1096066487_4109155708.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/AttentionMechanism/624642324_3880456413_1629983192.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/AttentionMechanism/624642324_2198926191_4109155708.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/AttentionMechanism/624642324_1276687832_1629983192.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/AttentionMechanism/624642324_2733122476_4109155708.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/AttentionMechanism/624642324_1843422491_1629983192.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/AttentionMechanism/624642324_2268332985_3428414469.mp4'

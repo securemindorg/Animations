@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/3/480p15/partial_movie_files/NextWordPrediction/1185818338_2278732249_223132457.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/3/480p15/partial_movie_files/NextWordPrediction/624642324_26353364_1889456897.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/3/480p15/partial_movie_files/NextWordPrediction/624642324_1202629935_2567402596.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/3/480p15/partial_movie_files/NextWordPrediction/624642324_3145642277_2698143986.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/3/480p15/partial_movie_files/NextWordPrediction/624642324_689895799_2905474099.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/3/480p15/partial_movie_files/NextWordPrediction/624642324_2533961723_344870237.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/3/480p15/partial_movie_files/NextWordPrediction/624642324_1739969200_1855011439.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/3/480p15/partial_movie_files/NextWordPrediction/624642324_3370561875_4026455611.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/3/480p15/partial_movie_files/NextWordPrediction/624642324_2268332985_888114576.mp4'

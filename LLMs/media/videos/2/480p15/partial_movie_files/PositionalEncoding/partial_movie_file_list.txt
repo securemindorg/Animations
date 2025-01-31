@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/PositionalEncoding/1185818338_2720765900_2205987761.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/PositionalEncoding/624642324_1357256803_2950377817.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/PositionalEncoding/624642324_838167511_3924212505.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/PositionalEncoding/624642324_1153610874_4136750941.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/PositionalEncoding/624642324_1507626750_2993262240.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/2/480p15/partial_movie_files/PositionalEncoding/624642324_2268332985_3298217645.mp4'
