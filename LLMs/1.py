@@ -14,14 +14,14 @@ class LLMIntroduction(Scene):
 
 
         # Title sequence
-        title = Text("Understanding Large Language Models", font_size=40)
-        subtitle = Text("From Text to Intelligence", font_size=30)
+        title = Text("Understanding Large Language Models", font_size=30)
+        subtitle = Text("From Text to Intelligence", font_size=20)
         subtitle.set_color(BLUE)
         subtitle.next_to(title, DOWN)
 
         # Create the initial question
         question = Text("How can AI understand and generate human-like text?",
-                       font_size=35)
+                       font_size=30)
         question.set_color(YELLOW)
 
         # Create example bubbles showing LLM capabilities
@@ -60,7 +60,7 @@ class LLMIntroduction(Scene):
 
         # Move question up and show capabilities
         self.play(
-            question.animate.scale(0.7).next_to(title_group, DOWN),
+            question.animate.scale(0.5).next_to(title_group, DOWN),
             run_time=1.5
         )
 
@@ -69,11 +69,11 @@ class LLMIntroduction(Scene):
             self.play(
                 Create(bubble[0]),
                 Write(bubble[1]),
-                bubble.animate.scale(1.2),
+                bubble.animate.scale(1),
                 run_time=0.5
             )
             self.play(
-                bubble.animate.scale(1/1.2),
+                bubble.animate.scale(0.8/1),
                 run_time=0.3
             )
 

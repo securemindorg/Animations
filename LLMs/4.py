@@ -10,10 +10,11 @@ class LearningProgress(Scene):
             fill_color=BLUE_C,
             fill_opacity=0.1,
         ).set_z_index(-1)  # Ensure it is behind all elements
+        self.add(background)  # Add background to the scene
 
         # Title
-        title = Text("LLM Training Progress", font_size=30)
-        subtitle = Text("Learning Curves & Metrics", font_size=20, color=BLUE)
+        title = Text("LLM Training Progress", font_size=40)
+        subtitle = Text("Learning Curves & Metrics", font_size=30, color=BLUE)
         subtitle.next_to(title, DOWN)
         title_group = VGroup(title, subtitle)
         title_group.to_edge(UP)
@@ -99,6 +100,8 @@ class LearningProgress(Scene):
         self.play(Create(legend))
         self.play(Create(training_line), Create(validation_line))
 
+        self.wait(1)
+
         # Initialize dots at start of curves
         training_dot.move_to(axes.c2p(0, training_curve(0)))
         validation_dot.move_to(axes.c2p(0, validation_curve(0)))
@@ -119,7 +122,7 @@ class LearningProgress(Scene):
         self.play(
             MoveAlongPath(training_dot, training_line),
             MoveAlongPath(validation_dot, validation_line),
-            run_time=3
+            run_time=5
         )
 
         # Add milestone markers

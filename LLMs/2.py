@@ -147,7 +147,7 @@ class AttentionMechanism(Scene):
         # Create token representations
         def create_token(text, position):
             token = Rectangle(height=0.5, width=1)
-            label = Text(text, font_size=20).move_to(token.get_center())
+            label = Text(text, font_size=30).move_to(token.get_center())
             token_group = VGroup(token, label)
             token_group.move_to(position)
             return token_group
@@ -166,13 +166,13 @@ class AttentionMechanism(Scene):
                 weight = Line(
                     tokens[i].get_bottom(),
                     tokens[j].get_top(),
-                    stroke_opacity=0.3
+                    stroke_opacity=0.5
                 )
                 weights.add(weight)
 
         # Animation
         self.play(Create(tokens))
-        self.wait(0.5)
+        self.wait(4)
 
         # Animate attention weights
         self.play(Create(weights))
@@ -186,14 +186,19 @@ class AttentionMechanism(Scene):
                 highlight.add(weight)
             self.play(
                 Create(highlight),
-                run_time=0.5
+                run_time=4
             )
             self.play(
                 FadeOut(highlight),
-                run_time=0.5
+                run_time=4
             )
 
-        self.wait(1)
+        self.wait(4)
+
+        # Fade out everything for transition
+        self.play(
+            *[FadeOut(mob) for mob in self.mobjects]
+        )
 
 class PositionalEncoding(Scene):
     def construct(self):
@@ -233,10 +238,21 @@ class PositionalEncoding(Scene):
 
         # Animation
         self.play(Create(axes), Write(labels))
+        self.wait(4)
         self.play(Create(sin_graph1))
+        self.wait(4)
         self.play(Create(sin_graph2))
+        self.wait(4)
         self.play(Create(sin_graph3))
-        self.wait(1)
+        self.wait(2)
+
+        # Final pause
+        self.wait(2)
+
+        # Fade out everything for transition
+        self.play(
+            *[FadeOut(mob) for mob in self.mobjects]
+        )
 
 # To render:
 # manim -pqh transformer_architecture.py TransformerArchitecture

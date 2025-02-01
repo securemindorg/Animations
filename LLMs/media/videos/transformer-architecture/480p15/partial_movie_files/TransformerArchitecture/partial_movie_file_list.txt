@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/transformer-architecture/480p15/partial_movie_files/TransformerArchitecture/1185818338_3028291874_2205987761.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/transformer-architecture/480p15/partial_movie_files/TransformerArchitecture/624642324_1830724564_4249652216.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/transformer-architecture/480p15/partial_movie_files/TransformerArchitecture/624642324_3220408750_1343110630.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/transformer-architecture/480p15/partial_movie_files/TransformerArchitecture/624642324_1888516502_333807029.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/transformer-architecture/480p15/partial_movie_files/TransformerArchitecture/624642324_3448746521_1908686737.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/transformer-architecture/480p15/partial_movie_files/TransformerArchitecture/624642324_3722654220_2941209423.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/transformer-architecture/480p15/partial_movie_files/TransformerArchitecture/624642324_4129279372_95011993.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/transformer-architecture/480p15/partial_movie_files/TransformerArchitecture/624642324_3921138612_2288582111.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/transformer-architecture/480p15/partial_movie_files/TransformerArchitecture/624642324_634017564_924654151.mp4'

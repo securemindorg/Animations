@@ -3,7 +3,16 @@ import numpy as np
 
 class PreTrainingPhase(Scene):
     def construct(self):
-        # Title
+                # Add a background effect (gradient rectangle)
+        background = Rectangle(
+            width=config.frame_width,  # Use MANIM's config.frame_width
+            height=config.frame_height,  # Use MANIM's config.frame_height
+            fill_color=BLUE_C,
+            fill_opacity=0.1,
+        ).set_z_index(-1)  # Ensure it is behind all elements
+        self.add(background)  # Add background to the scene
+
+         # Title
         title = Text("LLM Training Process", font_size=40)
         subtitle = Text("Pre-training Phase", font_size=30, color=BLUE)
         subtitle.next_to(title, DOWN)
@@ -15,7 +24,10 @@ class PreTrainingPhase(Scene):
         self.play(Write(title_group))
         self.wait(0.5)
 
-        # Create text corpus visualization
+        # Move all content down by adjusting the starting position
+        content_start_position = DOWN * 1.3  # Adjust this value as needed
+
+        # Create text corpus visualization with adjusted position
         def create_document(position, scale=1):
             doc = VGroup()
             for i in range(4):
@@ -27,20 +39,21 @@ class PreTrainingPhase(Scene):
             doc.move_to(position)
             return doc
 
-        # Create multiple documents
+        # Create multiple documents with adjusted positioning
         documents = VGroup()
         for i in range(3):
             for j in range(3):
-                doc = create_document([i*3 - 3, j*2 - 1, 0], scale=0.8)
+                # Adjust the vertical position by adding content_start_position
+                doc = create_document([i*3 - 3, j*2 - 1 + content_start_position[1], 0], scale=0.8)
                 documents.add(doc)
 
         self.play(Create(documents))
         self.wait(0.5)
 
-        # Create model representation
+        # Create model representation with adjusted position
         model = Rectangle(height=3, width=2)
         model.set_fill(BLUE_E, opacity=0.3)
-        model.move_to([3, 0, 0])
+        model.move_to([3, content_start_position[1], 0])  # Adjust position
         model_label = Text("Model", font_size=24).move_to(model)
         model_group = VGroup(model, model_label)
 
@@ -51,14 +64,38 @@ class PreTrainingPhase(Scene):
             copy = doc.copy()
             self.play(
                 copy.animate.move_to(model.get_left()),
-                run_time=0.3
+                run_time=2
             )
             self.play(FadeOut(copy), run_time=0.2)
 
         self.wait(1)
 
+        # Add explanatory text with adjusted position
+        explanation = VGroup(
+            Text("Pre-training on massive text corpus", font_size=20, color=BLUE),
+            Text("Learning language patterns", font_size=20, color=BLUE)
+        ).arrange(DOWN, buff=0.3)
+        #explanation.next_to(model_group)
+
+        self.play(Write(explanation))
+        self.wait(2)
+
+
+
+# To render:
+# manim -pqh pretraining_scene.py PreTrainingPhase
+
 class NextWordPrediction(Scene):
     def construct(self):
+                # Add a background effect (gradient rectangle)
+        background = Rectangle(
+            width=config.frame_width,  # Use MANIM's config.frame_width
+            height=config.frame_height,  # Use MANIM's config.frame_height
+            fill_color=BLUE_C,
+            fill_opacity=0.1,
+        ).set_z_index(-1)  # Ensure it is behind all elements
+        self.add(background)  # Add background to the scene
+
         # Title
         title = Text("Next Word Prediction", font_size=35)
         title.to_edge(UP)
@@ -98,6 +135,15 @@ class NextWordPrediction(Scene):
 
 class FineTuningPhase(Scene):
     def construct(self):
+                # Add a background effect (gradient rectangle)
+        background = Rectangle(
+            width=config.frame_width,  # Use MANIM's config.frame_width
+            height=config.frame_height,  # Use MANIM's config.frame_height
+            fill_color=BLUE_C,
+            fill_opacity=0.1,
+        ).set_z_index(-1)  # Ensure it is behind all elements
+        self.add(background)  # Add background to the scene
+
         # Title
         title = Text("Fine-tuning Phase", font_size=40)
         title.to_edge(UP)
@@ -152,6 +198,16 @@ class FineTuningPhase(Scene):
 
 class LearningProgress(Scene):
     def construct(self):
+
+        # Add a background effect (gradient rectangle)
+        background = Rectangle(
+            width=config.frame_width,  # Use MANIM's config.frame_width
+            height=config.frame_height,  # Use MANIM's config.frame_height
+            fill_color=BLUE_C,
+            fill_opacity=0.1,
+        ).set_z_index(-1)  # Ensure it is behind all elements
+        self.add(background)  # Add background to the scene
+
         # Create coordinate system
         axes = Axes(
             x_range=[0, 10, 1],

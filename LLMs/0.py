@@ -59,7 +59,7 @@ class TitleScene(Scene):
             }
             self.play(
                 graph.animate.change_layout(new_positions, layout_scale=1),
-                run_time=0.5,  # Slower animation for smoother transitions
+                run_time=0.1,  # Slower animation for smoother transitions
                 rate_func=smooth  # Use a smooth rate function
             )
 

@@ -48,7 +48,7 @@ class ClosingScene(Scene):
 
         # Animation sequence
         self.play(Write(title_group))
-        self.wait(0.5)
+        self.wait(2)
 
         # Animate takeaways appearing with checkmarks
         for group in takeaway_groups:
@@ -58,7 +58,7 @@ class ClosingScene(Scene):
                 run_time=0.5
             )
 
-        self.wait(0.5)
+        self.wait(5)
 
         # Create and animate final call to action
         cta = Text("Subscribe and Checkout Data Science @ Utica University!", font_size=28, color=YELLOW)
@@ -95,7 +95,7 @@ class ClosingScene(Scene):
                 UpdateFromFunc(dot, particle_animation)
                 for dot in particles
             ],
-            run_time=2
+            run_time=5
         )
 
         # Final pause
@@ -104,7 +104,7 @@ class ClosingScene(Scene):
         # Fade everything out
         self.play(
             *[FadeOut(mob) for mob in self.mobjects],
-            run_time=1.5
+            run_time=2
         )
 
 # To render:
