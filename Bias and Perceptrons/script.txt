@@ -1,0 +1,60 @@
+I. Introduction (30 seconds)
+- Hook: "Ever wonder why AI seems to make biased decisions? The answer lies in its simplest building block - the perceptron."
+- Brief overview of what will be covered
+- Why this matters for modern AI systems
+
+II. What is a Perceptron? (1 minute)
+- Visual demonstration of a perceptron
+  • Input nodes
+  • Weights
+  • Bias node
+  • Activation function
+- Simple analogy: "Think of it as an AI's decision-making muscle"
+
+III. How Perceptrons Learn (2 minutes)
+- Visual demonstration of:
+  • Training data input
+  • Weight adjustments
+  • Role of bias term
+  • Decision boundary formation
+- Real-world example: "Imagine training a perceptron to sort job applications"
+
+IV. Where Bias Enters (2 minutes)
+1. Training Data Bias
+   • Show how biased input data affects weight distribution
+   • Visual example of skewed decision boundaries
+   • "Garbage in, garbage out" principle
+
+2. Feature Selection Bias
+   • Demonstrate how choosing certain inputs over others affects decisions
+   • Example: "If we only look at certain characteristics..."
+
+3. Historical Data Reflection
+   • Show how past biases get encoded into weights
+   • Example using employment data patterns
+
+V. Bias Amplification (2 minutes)
+- Demonstrate how small initial biases get amplified through:
+  • Feedback loops
+  • Reinforcement
+  • Cascade effects
+- Visual representation of bias snowball effect
+
+VI. Real-World Implications (1.5 minutes)
+- Examples of bias manifestation in:
+  • Hiring algorithms
+  • Loan approval systems
+  • Facial recognition
+  • Healthcare decisions
+
+VII. Solutions and Mitigation (1 minute)
+- Balanced training data
+- Careful feature selection
+- Regular bias audits
+- Human oversight
+- Diverse development teams
+
+VIII. Conclusion (30 seconds)
+- Recap of how perceptrons can amplify bias
+- Call to action for responsible AI development
+- "Understanding the root cause helps us build better, fairer AI"
