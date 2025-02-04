@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ArchitectureScene/1185818338_3791997707_223132457.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ArchitectureScene/624642324_1070867150_2043545675.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ArchitectureScene/624642324_1785451315_2202727519.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ArchitectureScene/624642324_2268332985_2626885816.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ArchitectureScene/624642324_1697814928_3847292745.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ArchitectureScene/624642324_1609265538_979251952.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ArchitectureScene/624642324_2268332985_662266636.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ArchitectureScene/624642324_2177345306_1698546401.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ArchitectureScene/624642324_2200280195_4185374625.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ArchitectureScene/624642324_634017564_3221151518.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ArchitectureScene/624642324_834232228_1616798698.mp4'

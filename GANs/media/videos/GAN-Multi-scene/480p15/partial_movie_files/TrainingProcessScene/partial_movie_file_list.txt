@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/TrainingProcessScene/1185818338_1665427753_223132457.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/TrainingProcessScene/624642324_4071659840_4217842752.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/TrainingProcessScene/624642324_255954198_3631127911.mp4'

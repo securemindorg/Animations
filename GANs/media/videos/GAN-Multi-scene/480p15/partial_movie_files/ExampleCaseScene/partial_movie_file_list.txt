@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ExampleCaseScene/1185818338_3451842871_223132457.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ExampleCaseScene/624642324_2268332985_1473875195.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ExampleCaseScene/624642324_3751717637_3804890469.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ExampleCaseScene/624642324_910990752_676571188.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ExampleCaseScene/624642324_1267918816_2039365400.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ExampleCaseScene/624642324_634017564_381651548.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ExampleCaseScene/624642324_2561302328_3715495941.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ExampleCaseScene/624642324_634017564_3728210623.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/ExampleCaseScene/624642324_769490580_3301475389.mp4'

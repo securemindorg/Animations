@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/MultiHeadAttentionScene/1185818338_2701415469_223132457.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/MultiHeadAttentionScene/624642324_1454553442_1208663759.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/MultiHeadAttentionScene/624642324_4089797229_1690132127.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/MultiHeadAttentionScene/624642324_2969591562_3719358401.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/MultiHeadAttentionScene/624642324_4197819628_1280577900.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/MultiHeadAttentionScene/624642324_2112311810_3792066423.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/MultiHeadAttentionScene/624642324_634017564_3864204454.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/MultiHeadAttentionScene/624642324_1767697849_4227516557.mp4'

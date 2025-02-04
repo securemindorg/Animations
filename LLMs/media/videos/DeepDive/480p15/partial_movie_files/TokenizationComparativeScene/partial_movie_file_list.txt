@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TokenizationComparativeScene/1185818338_2114513812_223132457.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TokenizationComparativeScene/624642324_1643310982_740238732.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TokenizationComparativeScene/624642324_3333126794_4203540276.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TokenizationComparativeScene/624642324_634017564_557577332.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TokenizationComparativeScene/624642324_3457500394_4227516557.mp4'

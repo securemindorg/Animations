@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/MathScene/1185818338_1506800887_223132457.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/MathScene/624642324_4071659840_247236581.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/MathScene/624642324_3313295249_741256698.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/MathScene/624642324_634017564_3746664023.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/GANs/media/videos/GAN-Multi-scene/480p15/partial_movie_files/MathScene/624642324_3813154834_2432625696.mp4'

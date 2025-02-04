@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/SoftmaxTokenSamplingScene/1185818338_1061431859_223132457.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/SoftmaxTokenSamplingScene/624642324_1889639664_2814933146.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/SoftmaxTokenSamplingScene/624642324_3605520049_1723405023.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/SoftmaxTokenSamplingScene/624642324_535913936_3119786491.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/SoftmaxTokenSamplingScene/624642324_2268332985_4068802908.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/SoftmaxTokenSamplingScene/624642324_356482203_2768445844.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/SoftmaxTokenSamplingScene/624642324_3152626651_1210037522.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/SoftmaxTokenSamplingScene/624642324_2268332985_194372139.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/SoftmaxTokenSamplingScene/624642324_418571941_1976170850.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/SoftmaxTokenSamplingScene/624642324_31904138_741021295.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/SoftmaxTokenSamplingScene/624642324_634017564_2511476548.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/SoftmaxTokenSamplingScene/624642324_2707292075_3225202723.mp4'

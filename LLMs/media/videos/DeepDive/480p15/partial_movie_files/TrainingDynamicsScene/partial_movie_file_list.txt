@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TrainingDynamicsScene/1185818338_2836826967_223132457.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TrainingDynamicsScene/624642324_3445479751_673498617.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TrainingDynamicsScene/624642324_4163216906_1270985128.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TrainingDynamicsScene/624642324_2268332985_4021043600.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TrainingDynamicsScene/624642324_1112367585_188002378.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TrainingDynamicsScene/624642324_3271594674_2430152733.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TrainingDynamicsScene/624642324_634017564_4019997504.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/LLMs/media/videos/DeepDive/480p15/partial_movie_files/TrainingDynamicsScene/624642324_2624898284_574630669.mp4'
