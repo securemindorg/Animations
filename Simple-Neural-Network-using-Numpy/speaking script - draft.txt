@@ -1,0 +1,20 @@
+**[Opening – Introduction Scene]**
+Today, we’re going to discuss some key concepts of Neural Network Design. We’ll explain how data flows forward through a network, how errors are sent back to make corrections, and how the network learns with each update. So Let’s dive in!"
+
+**[Forward Propagation Scene]**
+"First, let’s talk about forward propagation. Imagine feeding data into the network—it starts with an input image or vector, moves through hidden layers, and eventually reaches the output layer. As you can see here, the input ‘pulse’ moves from neuron to neuron. Each neuron computes a value using an activation function like ReLU or Softmax. This process determines the network’s initial prediction."
+
+**[Backpropagation Scene]**
+Now, no prediction is perfect—and that’s where backpropagation comes in. Here, we calculate how far off our prediction was and then work backward through the network. The error signal flows back from the output, through each hidden layer, using the chain rule to adjust the influence of every weight. Here we see the gradient arrows moving back along the same paths the data once traveled.
+
+**[Weight Update Scene]**
+"After backpropagation, our network has computed the gradients for each weight and bias. Now it’s time to make updates using gradient descent. Think of this step as fine-tuning: we subtract a small portion of the gradient from each weight to reduce the error slowly but steadily. Here on the screen, you see how the weight matrix transforms into its updated version. This is how the network learns—by continuously refining its parameters."
+
+**[Full Network Training – Integrating Your Original Scenes]**
+"With these components working together, the network embarks on an iterative training journey. In our full-network training scenes, we see everything in action—from processing MNIST images, activating neurons, propagating errors backwards, to updating weights and improving accuracy with every epoch. These visualizations bring all the abstract math into focus."
+
+**[Closing Scene]**
+"As we wrap up, let’s quickly review the journey: We witnessed how data flows forward through the network, how backpropagation adjusts errors, and how gradient descent continuously improves the model—step by step, layer by layer. Visualizing these processes with Manim really helps demystify the magic behind neural networks."
+
+"Thank you for joining me on this deep dive. I hope this visual tour makes the inner workings of neural network training a lot clearer. Keep exploring, keep learning, and see you next time!"
+

@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whitejs/Documents/GitHub/Animations/Simple-Neural-Network-using-Numpy/media/videos/ExplanationScenes/480p15/partial_movie_files/IntroductionScene/1185818338_16740073_223132457.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/Simple-Neural-Network-using-Numpy/media/videos/ExplanationScenes/480p15/partial_movie_files/IntroductionScene/624642324_2268332985_13136442.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/Simple-Neural-Network-using-Numpy/media/videos/ExplanationScenes/480p15/partial_movie_files/IntroductionScene/624642324_948461130_783706922.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/Simple-Neural-Network-using-Numpy/media/videos/ExplanationScenes/480p15/partial_movie_files/IntroductionScene/624642324_937586260_304605260.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/Simple-Neural-Network-using-Numpy/media/videos/ExplanationScenes/480p15/partial_movie_files/IntroductionScene/624642324_3028225434_1030144333.mp4'
+file 'file:/home/whitejs/Documents/GitHub/Animations/Simple-Neural-Network-using-Numpy/media/videos/ExplanationScenes/480p15/partial_movie_files/IntroductionScene/624642324_4071659840_2585340664.mp4'
